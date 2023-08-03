@@ -1,5 +1,4 @@
 # Bitcoin_Price
-Hello, this is Bing. I'm glad you are interested in time series analysis using Bitcoin price prediction using fbprophet. Here is a brief description of what it is and how to do it.
 
 ## What is time series analysis using Bitcoin price prediction using fbprophet?
 
